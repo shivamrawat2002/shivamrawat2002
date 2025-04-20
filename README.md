@@ -6,7 +6,8 @@
 - 🌱 I’m learning **Node.js**, **Artificial Intelligence**, and **Machine Learning**
 - 🧠 Comfortable with Python libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**
 - 💬 Ask me about anything related to **backend development**, **data analysis**, or **ML**
-- 📫 How to reach me: [rawatshivam9041@gmail.com]
+- 👨‍💻 All of my projects are available at https://github.com/shivamrawat2002?tab=repositories
+- 📫 How to reach me: rawatshivam9041@gmail.com
 
 ---
 
@@ -33,4 +34,4 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Shivam Rawat](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
