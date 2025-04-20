@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shivam
 
-### A passionate full-stack developer and AI/ML enthusiast from India
+### A passionate Backend developer and AI/ML enthusiast from India
 
 - 🔭 I’m currently working on building scalable APIs using **Node.js**
 - 🌱 I’m learning **Node.js**, **Artificial Intelligence**, and **Machine Learning**
